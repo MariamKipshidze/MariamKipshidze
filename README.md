@@ -4,4 +4,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamKipshidze&layout=compact&theme=vue-dark)
+<img scr=https://github-readme-stats.vercel.app/api/top-langs/?username=MariamKipshidze&layout=compact&theme=vue-dark>
