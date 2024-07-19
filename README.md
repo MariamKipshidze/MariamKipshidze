@@ -11,4 +11,4 @@
 
 ## 📈 Visitor Count
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MariamKipshidze.MariamKipshidze)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MariamKipshidze)
