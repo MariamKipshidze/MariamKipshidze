@@ -8,3 +8,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamKipshidze&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamKipshidze&layout=compact&theme=radical)
+
+## 📈 Visitor Count
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MariamKipshidze.MariamKipshidze)
