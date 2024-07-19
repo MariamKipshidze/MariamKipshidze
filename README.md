@@ -9,6 +9,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamKipshidze&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamKipshidze&layout=compact&theme=radical)
 
-## 📈 Visitor Count
+## 🌐 Connect with Me
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MariamKipshidze)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-kipshidze-b51b9a220/)
