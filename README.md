@@ -8,6 +8,7 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/o/odoo.svg" title="Odoo" alt="" width="40" height="40"/>&nbsp;
 </div>
 </div>
 
